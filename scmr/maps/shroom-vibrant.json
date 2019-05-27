@@ -1,0 +1,31 @@
+{
+    "volume": "shroom",
+    "environment": {
+        "environment": "NORMAL",
+        "biome": {
+            "mode": "RANDOM",
+            "biomes": [
+                "JUNGLE",
+                "JUNGLE_EDGE",
+                "FOREST",
+                "SWAMPLAND"
+            ]
+        },
+        "decoration": {
+            "torches-amount": 64,
+            "frost-factor": 0,
+            "dry-factor": 0,
+            "vines-amount": 6000,
+            "torch-lighting-factor": 0.21,
+            "lillies-amount": 12
+        },
+        "downfall": false,
+        "thundering": false,
+        "time": 6000
+    },
+    "id": "shroom-vibrant",
+    "properties": {
+        "name": "Vibrant Marsh",
+        "authors": "The Psychopath Nextdoor"
+    }
+}

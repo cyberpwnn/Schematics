@@ -1,0 +1,28 @@
+{
+    "volume": "shroom",
+    "environment": {
+        "environment": "NORMAL",
+        "biome": {
+            "mode": "RANDOM",
+            "biomes": [
+                "TAIGA_COLD"
+            ]
+        },
+        "decoration": {
+            "torches-amount": 128,
+            "frost-factor": 3,
+            "dry-factor": 0,
+            "vines-amount": 3250,
+            "torch-lighting-factor": 0.11,
+            "lillies-amount": 3
+        },
+        "downfall": true,
+        "thundering": false,
+        "time": 18000
+    },
+    "id": "shroom-frozen",
+    "properties": {
+        "name": "Frozen Marsh",
+        "authors": "The Psychopath Nextdoor"
+    }
+}

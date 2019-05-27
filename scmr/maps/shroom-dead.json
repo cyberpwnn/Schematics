@@ -1,0 +1,29 @@
+{
+    "volume": "shroom",
+    "environment": {
+        "environment": "NORMAL",
+        "biome": {
+            "mode": "RANDOM",
+            "biomes": [
+                "HELL",
+                "SWAMPLAND"
+            ]
+        },
+        "decoration": {
+            "torches-amount": 64,
+            "frost-factor": 0,
+            "dry-factor": 0,
+            "vines-amount": 4000,
+            "torch-lighting-factor": 0.11,
+            "lillies-amount": 12
+        },
+        "downfall": false,
+        "thundering": false,
+        "time": 9000
+    },
+    "id": "shroom-dead",
+    "properties": {
+        "name": "Dead Marsh",
+        "authors": "The Psychopath Nextdoor"
+    }
+}
